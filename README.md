@@ -1,3 +1,4 @@
+Reprogramar para poner antibot y demas.
 # RedisBungee
 
 RedisBungee bridges [Redis](http://redis.io) and BungeeCord together. This is the solution deployed on [The Chunk](http://thechunk.net) to make sure our multi-Bungee setup flows smoothly together.
